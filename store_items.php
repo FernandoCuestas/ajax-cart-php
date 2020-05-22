@@ -9,7 +9,7 @@
 
   if(isset($_POST['item_src']))
   {
-    //hola pepe
+    //hola pep
     $_SESSION['name'][]=$_POST['item_name'];
     $_SESSION['price'][]=$_POST['item_price'];
 	  
