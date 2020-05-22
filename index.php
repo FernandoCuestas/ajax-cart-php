@@ -8,6 +8,8 @@ h1 {  font-family: Helvetica, Arial, sans-serif;  text-align: center; font-size:
 
 body
 {
+
+  
 	background:url(../background1.png);
 	font-family:helvetica;
 	margin:0px auto;
